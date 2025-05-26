@@ -10,7 +10,7 @@ A lo largo de mi formación, he adquirido habilidades sólidas en tecnologías d
 - **Lenguajes:** JavaScript, TypeScript  
 - **Backend:** Node.js, NestJS  
 - **Bases de datos:** PostgreSQL
-- **ORM/ODM:** TypeORM, Mongoose  
+- **ORM/ODM:** TypeORM 
 - **Testing:** Jest
 - **Otros:** Docker, Git
 
