@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hola 👋</h1>
+<h3 align="center">Backend Web Developer de Argentina</h3>
 
-<!--
-**7KevinSchneider/7KevinSchneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A lo largo de mi formación, he adquirido habilidades sólidas en tecnologías de Backend.
+
+- **Lenguajes:** JavaScript, TypeScript  
+- **Backend:** Node.js, NestJS  
+- **Bases de datos:** PostgreSQL
+- **ORM/ODM:** TypeORM, Mongoose  
+- **Testing:** Jest
+- **Otros:** Docker, Git
+
+---
+
+### 📫 Contacto
+
+- ✉️ [kevinschn20@gmail.com](mailto:kevinschn20@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-schneider-ks75/)
+
+---
+
+### 🚀 Tecnologías
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+</p>
+
